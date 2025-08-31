@@ -1,6 +1,4 @@
-import React, { Component, useState } from "react";
-
-
+import { Component } from "react";
 // ------------------- CLASS COMPONENT -------------------
 class ClassComponent extends Component {
   constructor(props) {
